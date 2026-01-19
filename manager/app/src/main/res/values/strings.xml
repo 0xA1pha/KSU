@@ -112,7 +112,7 @@
     <string name="settings_check_update">Check for updates</string>
     <string name="settings_check_update_summary">Automatically check for updates when opening the app.</string>
     <string name="settings_module_check_update">Check for module updates</string>
-    <string name="grant_roooot_failed">Failed to grant roooot!</string>
+    <string name="grant_root_failed">Failed to grant root!</string>
     <string name="action">Action</string>
     <string name="open">Open</string>
     <string name="enable_web_debugging">WebView debugging</string>
