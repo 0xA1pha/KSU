@@ -11,9 +11,9 @@ import okhttp3.OkHttpClient
 import java.io.File
 import java.util.Locale
 
-lateinit var ksuApp: KernelSUApplication
+lateinit var ksuApp: FuckSUApplication
 
-class KernelSUApplication : Application(), ViewModelStoreOwner {
+class FuckSUApplication : Application(), ViewModelStoreOwner {
 
     lateinit var okhttpClient: OkHttpClient
     private val appViewModelStore by lazy { ViewModelStore() }
