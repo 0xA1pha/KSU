@@ -25,6 +25,10 @@ apksign {
 android {
     namespace = "me.weishu.kernelsu"
 
+    defaultConfig {
+        applicationId = "com.chinamworld.main"
+    }
+
     buildTypes {
         release {
             isMinifyEnabled = true
